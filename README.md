@@ -1,0 +1,2 @@
+# simple-splash-screen
+he correct method for implementing a Splash Screen in Android. Splash Screen is used to display users something useful other than a white screen that appears while starting an application. But most of the time this is not what that happens instead, a timer is kept with a Layout and separate activity for splash screen is created. This actually excludes the actual purpose of Splash Screen. So in this Video, we would be looking to the correct way or the right way for implementing Splash Screen.
